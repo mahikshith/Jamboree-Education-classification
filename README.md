@@ -1,2 +1,3 @@
-# Jamboree Education classification
- Finding probability whether a student coud get into a collage
+# Jamboree Education 
+ Finding probability whether a student could have higher chance of getting admission in a foreign university.
+
